@@ -1,0 +1,8 @@
+{
+	"Tap to set": "Tap to set",
+	"pages.mainPage.name": "Switch Open/Close",
+	"pages.mainPage.sections.sensors.name": "Power Sensor",
+	"pages.mainPage.settings.sensor.name": "Select a Power Sensor",
+	"pages.mainPage.sections.actuator.name": "Turn on and off this Switch",
+	"pages.mainPage.settings.actuator.name": "Select switch to turn On/Off"
+}
